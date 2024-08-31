@@ -1,2 +1,2 @@
-# Virtual Doctot- Medical Chatbot
+# Virtual Doctor- Medical Chatbot
  
